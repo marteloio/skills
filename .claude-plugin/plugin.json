@@ -1,0 +1,23 @@
+{
+  "name": "marteloio",
+  "displayName": "Marteloio",
+  "version": "0.1.4",
+  "description": "Work on a family's tree from a conversation: who is in it, one person's record, a search of the workspace, and, after approval, a person added or corrected.",
+  "keywords": [
+    "genealogy",
+    "ancestry",
+    "relatives",
+    "records"
+  ],
+  "author": {
+    "name": "Marteloio",
+    "url": "https://martelo.io"
+  },
+  "homepage": "https://martelo.io",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://martelo.io/legal/privacy",
+  "termsOfServiceUrl": "https://martelo.io/legal/terms",
+  "supportUrl": "https://martelo.io/support/connectors",
+  "repository": "https://github.com/marteloio/skills",
+  "documentationUrl": "https://github.com/marteloio/skills#readme"
+}
