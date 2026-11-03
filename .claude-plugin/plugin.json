@@ -1,8 +1,8 @@
 {
   "name": "marteloio",
   "displayName": "Marteloio",
-  "version": "0.1.4",
-  "description": "Work on a family's tree from a conversation: who is in it, one person's record, a search of the workspace, and, after approval, a person added or corrected.",
+  "version": "0.1.5",
+  "description": "Capture a family tree from a conversation: who is in it, one person's record, a search of the workspace, and, after approval, a person added or corrected.",
   "keywords": [
     "genealogy",
     "ancestry",
